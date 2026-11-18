@@ -109,3 +109,6 @@ Contact and signup forms use mailto links to `hello@jcalvintx.com` since this is
 
 ## Repository
 https://github.com/treyclawson22/j-calvin-property-care
+
+## Workflow
+Short-lived branch -> PR -> CI -> Vercel preview -> merge. This repo is dormant; production (static export to 10Web via SFTP) goes live only on Trey's say-so.
